@@ -1,0 +1,6 @@
+{
+  "tasks": [
+    { "id": 1, "taskName": "Học React", "completed": false, "priority": "high" },
+    { "id": 2, "taskName": "Làm bài tập TS", "completed": true, "priority": "medium" }
+  ]
+}
